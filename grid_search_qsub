@@ -1,0 +1,6 @@
+#!/bin/bash
+#qsub script to submit to nyu's scheduler
+
+module load tensorflow/python3.5.1/20160418
+cd /scratch/mss460/A1
+python3.5 /scratch/mss460/A1/grid_search.py
