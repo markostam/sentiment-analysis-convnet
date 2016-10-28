@@ -1,5 +1,5 @@
 # text-cnn-sentiment
-Text CNN for sentence classification in [Tensorflow](https://github.com/tensorflow) based on [Yoon Kim's paper](https://arxiv.org/abs/1408.5882) and [Denny Britz's blog post](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/).
+Text CNN for sentence classification in [Tensorflow](https://github.com/tensorflow) based on [Yoon Kim's paper](https://arxiv.org/abs/1408.5882) and [Denny Britz's blog post](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/) trained on the [Stanford IMDB Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/) .
 
 Added some functionality including a param search, support for multiple fully connected layers and different types of nonlinearity.
 
